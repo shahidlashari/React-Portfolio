@@ -3,7 +3,6 @@
 URL Links: <https://sh-react-portfolio.herokuapp.com/>
 Github deployed: <https://shahidlashari.github.io/React-Portfolio/>
 
-
 # Description
 
 * The purpose of this assignment was to create a updated portfolio to list all assignments done so far.
