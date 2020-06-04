@@ -1,8 +1,8 @@
 # React Portfolio
 
-URL Links:
-Github deployed: https://shahidlashari.github.io/personal-portfolio/
-Github: https://github.com/shahidlashari/personal-portfolio
+URL Links: <https://sh-react-portfolio.herokuapp.com/>
+Github deployed: <https://shahidlashari.github.io/React-Portfolio/>
+
 
 # Description
 
