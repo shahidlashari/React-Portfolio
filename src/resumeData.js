@@ -126,7 +126,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Music Buster",
-        "description":"webapp",
+        "description":"The Music Buster app gives information regarding an artist, including their discography, social media links, most loved tracks, music video links, etc. In addition, there is a mic-speak function that allows the user to search through Google by saying whatever the user says.",
         "imgurl":"https://puu.sh/Fv4TG/0a719f463f.png",
         "imgurlmb1":" https://puu.sh/Fv52g/1e7ef03d1c.png",
         "imgurlmb2":"https://puu.sh/Fv4UP/f40b0c75a6.png",
@@ -134,7 +134,7 @@ let resumeData = {
       },
       {
         "name":"Stock Tutorial",
-        "description":"webapp",
+        "description":"The Stock Tutorial application provides the user a basic interactive and educational experience of the stock market trade through analyzing a variety of real-time stock data and emulating a stock portfolio. Dashboard to search stock of choice, sign up/logout function, database and back end queries.",
         "imgurl":"https://puu.sh/FJOXn/10b37c3c6d.jpg",
         "imgurlst1":"https://puu.sh/FJOYl/57ab0db046.png",
         "imgurlst2":"https://puu.sh/FJP2D/e139f0790a.png",
@@ -142,14 +142,34 @@ let resumeData = {
       },
       {
         "name":"Job TrackR",
-        "description":"webapp",  
+        "description":"The Job TrackR application works on showing the user how to search jobs, keep track of their activities regarding, applying, interviewing and offers etc. Update Job Dashboard just drag and drap saved-job to other categories without manually updating them. Authenticated user can use live chat feature with other job seekers to share thoughts and ideas.",  
         "imgurl":"https://puu.sh/FS4TM/cdad433cfc.png",
         "imgurljt1":"https://puu.sh/FS4YY/f14576caf5.png",
         "imgurljt2":"https://puu.sh/FS4YP/9b9b0d66c9.png",
-        "imgurljt3":"https://puu.sh/FS4Zc/92ad4d4535.png",
-        "imgurljt4":"https://puu.sh/FS50P/67091a7169.png",
         "imgurljt5":"https://puu.sh/FS4ZA/182beed3ed.png",
-      }
+      },
+      {
+        "name":"Workout Tracker",
+        "description":"An interfaces that make it easy for a user to be able to view create and track daily workouts.User can create and track daily workouts. User is able to log multiple exercises in a workout on a given day. User is able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, he is able to track distance traveled.",  
+        "imgurl":"https://user-images.githubusercontent.com/61823648/83792227-97586000-a64f-11ea-9b60-fda446d2da7b.png",
+        "imgurlft1":"https://user-images.githubusercontent.com/61823648/83791307-6fb4c800-a64e-11ea-8203-cf7766a96a69.png",
+        "imgurlft2":"https://user-images.githubusercontent.com/61823648/83791366-8a873c80-a64e-11ea-83dc-139ffed76117.png",
+        "imgurlft3":"https://user-images.githubusercontent.com/61823648/83791978-4fd1d400-a64f-11ea-9c7d-eaa592b8e3d4.png",
+       
+      },
+      {
+        "name":"Team Profile Generator",
+        "description":"An interfaces that make it easy for non-developers to view and interact with information stored in databases. This interfaces is known as Employee Management Systems. Hence, a solution for managing a company's employees using node, inquirer, and MySQL.",  
+        "imgurl":"https://user-images.githubusercontent.com/61823648/83795353-2ff0df00-a654-11ea-8402-2cf39962b434.png",
+
+      },
+      {
+        "name":"Note Taker",
+        "description":"An application is used to write, save, and delete notes. This application uses an express backend and saves and retrieve note data from a JSON file.Upon launching the app, users would be able to take persistent notes allows him to write, read and delete information available when needed.It allows users to create and save notes, view previously saved notes and delete previously saved notes.",  
+        "imgurl":"https://user-images.githubusercontent.com/61823648/83797662-da1e3600-a657-11ea-8129-176d10456b18.png",
+        "imgurlnt1":"https://user-images.githubusercontent.com/61823648/83797796-046ff380-a658-11ea-97b6-6fcaada00ede.png",
+
+      },
     ]
   }
   
