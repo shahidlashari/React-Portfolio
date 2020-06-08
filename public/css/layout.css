@@ -465,7 +465,7 @@ ul#nav li.current a { color: #F06000; }
 
    background: url(../images/overlay-bg.png) repeat;
 }
-.portfolio-item .item-wrap .link-icon {
+.portfolio-item .item-wrap .link-icon .item-img {
    display: block;
    color: #fff;
    height: 30px;

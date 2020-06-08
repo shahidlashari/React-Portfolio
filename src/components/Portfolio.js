@@ -16,8 +16,8 @@ export default class Porfolio extends Component {
                       <div className="item-wrap">
                               <h5>{item.name}</h5>
                               <p>{item.description}</p>
-                        <a href="https://drive.google.com/file/d/1jL4IrWwuqyR8GIMWGKy-xlIknW8j91Nn/view">
-                          <img src={item.imgurl} alt="projects" className="item-img" />
+                        <a href={item.url} target="_blank" rel="noopener noreferrer">
+                          <img src={item.imgurl} alt="" className="item-img" />
                           <img src={item.imgurlmb1} alt="" className="item-img" />
                           <img src={item.imgurlmb2} alt="" className="item-img" />
                           <img src={item.imgurlmb3} alt="" className="item-img" />

@@ -1,6 +1,6 @@
 /*
  * jQuery FlexSlider v2.2.0
- * Copyright 2012 WooThemes
+ * Copyright 2020 WooThemes
  * Contributing Author: Tyler Smith
  */
 ;

@@ -20,7 +20,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"Full Stack Web Developer with 8 years of diversified experience in operations in construction engineering, training in drilling industry and general management of a security organization.having project-management expertise, along with unsurpassed business analysis and application design, development, and implementation proficiencies, to organizations seeking a dynamic, self-motivated professional to build winning partnerships that produce exceptional results. Known among staff for strong wit and attention to detail no matter the complexity of the project. Fluent in English, Urdu, Punjabi and Hindi.",
+    "aboutme":"Full Stack Web Developer with 8 years of diversified experience in operations in construction engineering, training in drilling industry and general management of a security organization having project-management expertise, along with unsurpassed business analysis and application design, development, and implementation proficiencies, to organizations seeking a dynamic, self-motivated professional to build winning partnerships that produce exceptional results. Known among staff for strong wit and attention to detail no matter the complexity of the project. Fluent in English, Urdu, Punjabi and Hindi.",
     "address":"San Francisco, Bay area",
     "email":"shahid_lashari001@yahoo.com",
     "cellnumber":"(510)-309-7609",
@@ -126,6 +126,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Music Buster",
+        "url":"https://github.com/NMantohac/Music-Buster",
         "description":"The Music Buster app gives information regarding an artist, including their discography, social media links, most loved tracks, music video links, etc. In addition, there is a mic-speak function that allows the user to search through Google by saying whatever the user says.",
         "imgurl":"https://puu.sh/Fv4TG/0a719f463f.png",
         "imgurlmb1":" https://puu.sh/Fv52g/1e7ef03d1c.png",
@@ -134,6 +135,7 @@ let resumeData = {
       },
       {
         "name":"Stock Tutorial",
+        "url":"https://github.com/shahidlashari/project_2_stockTutorial",
         "description":"The Stock Tutorial application provides the user a basic interactive and educational experience of the stock market trade through analyzing a variety of real-time stock data and emulating a stock portfolio. Dashboard to search stock of choice, sign up/logout function, database and back end queries.",
         "imgurl":"https://puu.sh/FJOXn/10b37c3c6d.jpg",
         "imgurlst1":"https://puu.sh/FJOYl/57ab0db046.png",
@@ -142,6 +144,7 @@ let resumeData = {
       },
       {
         "name":"Job TrackR",
+        "url":"https://github.com/shahidlashari/Job-TrackR",
         "description":"The Job TrackR application works on showing the user how to search jobs, keep track of their activities regarding, applying, interviewing and offers etc. Update Job Dashboard just drag and drap saved-job to other categories without manually updating them. Authenticated user can use live chat feature with other job seekers to share thoughts and ideas.",  
         "imgurl":"https://puu.sh/FS4TM/cdad433cfc.png",
         "imgurljt1":"https://puu.sh/FS4YY/f14576caf5.png",
@@ -150,6 +153,7 @@ let resumeData = {
       },
       {
         "name":"Workout Tracker",
+        "url":"https://github.com/shahidlashari/HW17",
         "description":"An interfaces that make it easy for a user to be able to view create and track daily workouts.User can create and track daily workouts. User is able to log multiple exercises in a workout on a given day. User is able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, he is able to track distance traveled.",  
         "imgurl":"https://user-images.githubusercontent.com/61823648/83792227-97586000-a64f-11ea-9b60-fda446d2da7b.png",
         "imgurlft1":"https://user-images.githubusercontent.com/61823648/83791307-6fb4c800-a64e-11ea-8203-cf7766a96a69.png",
@@ -159,12 +163,14 @@ let resumeData = {
       },
       {
         "name":"Team Profile Generator",
+        "url":"https://github.com/shahidlashari/HW8",
         "description":"An interfaces that make it easy for non-developers to view and interact with information stored in databases. This interfaces is known as Employee Management Systems. Hence, a solution for managing a company's employees using node, inquirer, and MySQL.",  
         "imgurl":"https://user-images.githubusercontent.com/61823648/83795353-2ff0df00-a654-11ea-8402-2cf39962b434.png",
 
       },
       {
         "name":"Note Taker",
+        "url":"https://github.com/shahidlashari/HW11",
         "description":"An application is used to write, save, and delete notes. This application uses an express backend and saves and retrieve note data from a JSON file.Upon launching the app, users would be able to take persistent notes allows him to write, read and delete information available when needed.It allows users to create and save notes, view previously saved notes and delete previously saved notes.",  
         "imgurl":"https://user-images.githubusercontent.com/61823648/83797662-da1e3600-a657-11ea-8129-176d10456b18.png",
         "imgurlnt1":"https://user-images.githubusercontent.com/61823648/83797796-046ff380-a658-11ea-97b6-6fcaada00ede.png",
