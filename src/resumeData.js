@@ -22,10 +22,16 @@ let resumeData = {
       ],
     "aboutme":"Full Stack Web Developer with 8 years of diversified experience in operations in construction engineering, training in drilling industry and general management of a security organization having project-management expertise, along with unsurpassed business analysis and application design, development, and implementation proficiencies, to organizations seeking a dynamic, self-motivated professional to build winning partnerships that produce exceptional results. Known among staff for strong wit and attention to detail no matter the complexity of the project. Fluent in English, Urdu, Punjabi and Hindi.",
     "address":"San Francisco, Bay area",
-    "email":"shahid_lashari001@yahoo.com",
+    "email":"shahidlashari001@gmail.com",
     "cellnumber":"(510)-309-7609",
     "website":"https://shahidlashari.github.io",
     "education":[
+        {
+        "UniversityName":"Coursera",
+        "specialization":"Google Project Management Course",
+        "MonthOfPassing":"September",
+        "YearOfPassing":"2022",
+      },
       {
         "UniversityName":"UC Berkeley Extension, Berkeley CA",
         "specialization":"Full Stack Web Development	",
@@ -52,6 +58,13 @@ let resumeData = {
       }
     ],
     "work":[
+        {
+        "CompanyName":"Fizza Associates Inc, Richmond,CA",
+        "specialization":"Project Manager/Executive Appraisal Supervisor	",
+        "MonthOfLeaving":"Sep",
+        "YearOfLeaving":"2021",
+        "Achievements":"Managed all projects using project management tools, Managed the status of the completion of appraisals and client tasks to keep workflow on track.Proficient in Analyzing economic, financial, taxing, and zoning data for residential real estate properties.
+     },
       {
         "CompanyName":"Deep Ocean Contracting Establishment, Saudi Arabia",
         "specialization":"Operations Manager	",
