@@ -19,7 +19,7 @@ export default class Footer extends Component {
               })
             }
           </ul>
-          <large>&copy; Copyright 2021, Shahid Hussain </large>
+          <large>&copy; Copyright 2023, Shahid Hussain </large>
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
       </div>
