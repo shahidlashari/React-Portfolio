@@ -1,6 +1,6 @@
 # React Portfolio
 
-URL Links: <https://sh-react-portfolio.herokuapp.com/>
+URL Links: <https://shahid-react-portfolio.onrender.com/>
 Github deployed: <https://shahidlashari.github.io/React-Portfolio/>
 
 # Description
@@ -17,7 +17,7 @@ Github deployed: <https://shahidlashari.github.io/React-Portfolio/>
     * Bootstrap
     * Visual Studio Code
     * Github
-    * Heroku
+    * Render
 
 # Challenges:
 
